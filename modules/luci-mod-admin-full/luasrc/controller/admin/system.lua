@@ -60,7 +60,7 @@ function action_clock_status()
 	end
 
 	luci.http.prepare_content("application/json")
-	luci.http.write_json({ timestring = os.date("%c") })
+	luci.http.write_json({ timestring = os.date("%Y-%m-%d %X") })
 end
 
 function action_ntp_restart()
