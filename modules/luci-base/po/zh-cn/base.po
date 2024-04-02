@@ -172,7 +172,7 @@ msgid "APN"
 msgstr "APN"
 
 msgid "Architecture"
-msgstr "架构"
+msgstr "处理器"
 
 msgid "ARP retry threshold"
 msgstr "ARP 重试阈值"
@@ -3194,7 +3194,7 @@ msgid "Target network"
 msgstr "目标网络"
 
 msgid "Target Platform"
-msgstr "目标平台"
+msgstr "架构平台"
 
 msgid "Temperature"
 msgstr "温度"
